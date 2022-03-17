@@ -1,0 +1,24 @@
+.odd {
+    background-color: #f08080;
+    font-size: 20px;
+    font-family: "DejaVu Sans";
+}
+
+#oneID {
+    color: #0000ff;
+    font-size: 45px;
+    font-family: "DejaVu Sans";
+}
+
+.coolerOdd {
+    font-size: 30px;
+    font-family: "DejaVu Sans";
+    background-color: #f08080;
+}
+
+#anotherID {
+background-color: #7fffd4;
+    font-family: "DejaVu Sans";
+    font-size: 22px;
+    font-weight: bold;
+}
